@@ -1,0 +1,39 @@
+Node 1	Relation	Node 2
+Customer	interacts	Developer
+Customer	prioritizes	User story
+Customer	validates	Functional requirements
+Customer	prioritizes	User story
+Customer	validates	Requirement
+Developer	grooms	Task
+Development team	updates	Sprint backlog
+Direct stakeholder	formulates	Goal
+Feature	is_presented_to	User
+Feature	split_into	User Story
+Feedback	affects	Feature
+Feedback	affects	Product backlog
+Goal	defines	Scope
+Goal	identifies	stakeholder
+Nonfunctional requirement/Constraint/Quality requirement	affects	User story
+Product owner	defines	Product backlog
+Product owner	maintains	Product backlog
+Product owner	prioritizes	Product backlog
+Product owner	represents	Stakeholder
+Product owner	eliminates	Waste
+Product owner	grooms	Task
+Product owner	updates	Sprint backlog
+Product owner	prioritizes	User story
+Requirement	get written into	Documentation
+Scope	affects	Requirements
+Scope	impacts	Goal
+Scope	impacts	Vision
+Scope	describes	Vision
+Scrum master	prioritizes	User story
+Stakeholder	defines	Scope
+Stakeholder	prioritizes	User Story
+Task	populates	Sprint backlog
+User	gives	Feedback
+User	validates	Requirement
+User story	defines	Functional requirement
+User story	populates	Product backlog
+Vision	defines	Scope
+Vision	identifies	stakeholder
